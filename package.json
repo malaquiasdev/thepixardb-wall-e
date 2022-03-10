@@ -1,0 +1,10 @@
+{
+  "name": "wall-e",
+  "version": "0.0.1",
+  "description": "Tool for meta operations over static JSON data and from web pages and mix it in our central database",
+  "main": "index.ts",
+  "repository": "git@github.com:malaquiasdev/thepixardb-wall-e.git",
+  "author": "Mateus Malaquias <mateusmalaquiasdev@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
