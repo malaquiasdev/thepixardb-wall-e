@@ -1,18 +1,22 @@
 [
   {
     "id": 1,
-    "en": "Animation"
+    "en": "Animation",
+    "pt": "Animação"
   },
   {
     "id": 2,
-    "en": "Family"
+    "en": "Family",
+    "pt": "Família"
   },
   {
     "id": 3,
-    "en": "Comedy"
+    "en": "Comedy",
+    "pt": "Comédia"
   },
   {
     "id": 4,
-    "en": "Fantasy"
+    "en": "Fantasy",
+    "pt": "Fantasia"
   }
 ]
