@@ -7,6 +7,22 @@
   "author": "Mateus Malaquias <mateusmalaquiasdev@outlook.com>",
   "license": "MIT",
   "private": true,
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "scripts": {
+    "postinstall": "husky install && chmod ug+x .husky/*",
+    "prebuild": "rimraf dist",
+    "build": " tsc",
+    "dev": "nodemon --exec ts-node -- ./src/index.ts",
+    "start": "node ./dist/src/index.js",
+    "test": "jest --forceExit --detectOpenHandles",
+    "test:cov": "jest --coverage",
+    "lint": "eslint --ignore-path .gitignore --ext .ts src/",
+    "lint:fix": "npm run lint -- --fix"
+  },
   "devDependencies": {
     "@commitlint/cli": "^16.2.1",
     "@commitlint/config-conventional": "^16.2.1",
