@@ -1,0 +1,18 @@
+{
+  "name": "Pixar",
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Pixar Animation Studios (Pixar) is an American computer animation film studio based in Emeryville, California. Pixar is a subsidiary of The Walt Disney ...",
+      "long": "Pixar Animation Studios, commonly known as just Pixar, is an American computer animation studio known for its critically and commercially successful computer animated feature films. It is based in Emeryville, California, and is a subsidiary of Walt Disney Studios, which is owned by The Walt Disney Company."
+    },
+    {
+      "key": "pt",
+      "short": "Pixar Animation Studios (Pixar) é um estúdio de cinema de animação americano com sede em Emeryville, Califórnia. A Pixar é uma subsidiária da Walt Disney...",
+      "long": "Pixar Animation Studios, também conhecida como Pixar, é um estúdio americano de animação por computador com sede em Emeryville, Califórnia, uma subsidiária da Disney Studios Content de propriedade da The Walt Disney Company."
+    }
+  ],
+  "website": "http://www.pixar.com",
+  "country": "US",
+  "location": "Emeryville, California"
+}
