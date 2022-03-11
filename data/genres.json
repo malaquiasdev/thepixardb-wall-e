@@ -18,5 +18,15 @@
     "id": 4,
     "en": "Fantasy",
     "pt": "Fantasia"
+  },
+  {
+    "id": 5,
+    "en": "Adventure",
+    "pt": "Aventura"
+  },
+  {
+    "id": 6,
+    "en": "Drama",
+    "pt": "Drama"
   }
 ]

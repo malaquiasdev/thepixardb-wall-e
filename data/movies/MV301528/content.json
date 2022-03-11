@@ -1,0 +1,83 @@
+{
+  "id": "MV301528",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Toy Story 4"
+    },
+    {
+      "key": "pt",
+      "value": "Toy Story 4"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+      "long": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called Forky to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy."
+    },
+    {
+      "key": "pt",
+      "short": "Quando um novo brinquedo chamado Forky se une a Woody e à turma, uma viagem ao lado de velhos e novos amigos revela o quão grande o mundo pode ser para um brinquedo.",
+      "long": "Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Forky, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Forky fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões."
+    }
+  ],
+  "genreIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "budget": 175000000,
+  "revenue": 1073394593,
+  "releaseDate": "2019-06-19",
+  "runtime": 100,
+  "rating": {
+    "en": {
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    "pt": {
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  },
+  "externalId": {
+    "themoviedb": 301528,
+    "imdb": "tt1979376"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV301528/images/2_3/clean_w1360_h2039.jpeg",
+      "primary": "true",
+      "key": null
+    },
+    {
+      "path": "data/movies/MV301528/images/2_3/en_w2000_h3000.jpeg",
+      "primary": "true",
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV301528/images/2_3/en_w2000_h3000.jpeg",
+      "primary": "true",
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV301528/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": "true",
+      "key": null
+    },
+    {
+      "path": "data/movies/MV301528/images/16_9/en_w3840_h2160.jpeg",
+      "primary": "true",
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV301528/images/16_9/en_w3840_h2160.jpeg",
+      "primary": "true",
+      "key": "pt"
+    }
+  ]
+}
