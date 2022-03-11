@@ -1,0 +1,81 @@
+{
+  "id": "MV508943",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Luca"
+    },
+    {
+      "key": "pt",
+      "value": "Luca"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+      "long": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface."
+    },
+    {
+      "key": "pt",
+      "short": "Na Riviera italiana, uma amizade tão forte quanto inesperada surge entre um ser humano e um monstro marinho camuflado.",
+      "long": "Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!"
+    }
+  ],
+  "genreIds": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "budget": 200000000,
+  "revenue": 49010641,
+  "releaseDate": "2021-06-17",
+  "runtime": 101,
+  "rating": {
+    "en": {
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    "pt": {
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  },
+  "externalId": {
+    "themoviedb": 508943,
+    "imdb": "tt12801262"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV508943/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": "true",
+      "key": null
+    },
+    {
+      "path": "data/movies/MV508943/images/2_3/en_w2000_h3000.jpeg",
+      "primary": "true",
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV508943/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": "true",
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV508943/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": "true",
+      "key": null
+    },
+    {
+      "path": "data/movies/MV508943/images/16_9/en_w1920_h1080.jpeg",
+      "primary": "true",
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV508943/images/16_9/en_w1920_h1080.jpeg",
+      "primary": "true",
+      "key": "pt"
+    }
+  ]
+}
