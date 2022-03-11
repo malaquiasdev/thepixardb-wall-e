@@ -32,6 +32,16 @@
   "revenue": 0,
   "releaseDate": "2022-03-10",
   "runtime": 107,
+  "rating": {
+    "en": {
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    "pt": {
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  },
   "externalId": {
     "themoviedb": 508947,
     "imdb": "tt8097030"
