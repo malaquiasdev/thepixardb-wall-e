@@ -33,16 +33,18 @@
   "revenue": 141592359,
   "releaseDate": "2020-02-29",
   "runtime": 103,
-  "rating": {
-    "en": {
+  "ages": [
+    {
+      "key": "en",
       "organ": "Motion Picture Association of America",
       "value": "PG"
     },
-    "pt": {
+    {
+      "key": "pt",
       "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
       "value": "L"
     }
-  },
+  ],
   "externalId": {
     "themoviedb": 508439,
     "imdb": "tt7146812"
@@ -50,32 +52,32 @@
   "images": [
     {
       "path": "data/movies/MV508439/images/2_3/clean_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV508439/images/2_3/en_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV508439/images/2_3/pt_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     },
     {
       "path": "data/movies/MV508439/images/16_9/clean_w3840_h2160.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV508439/images/16_9/en_w1440_h810.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV508439/images/16_9/pt_w3840_h2160.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     }
   ]

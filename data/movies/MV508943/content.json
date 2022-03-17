@@ -32,16 +32,18 @@
   "revenue": 49010641,
   "releaseDate": "2021-06-17",
   "runtime": 101,
-  "rating": {
-    "en": {
+  "ages": [
+    {
+      "key": "en",
       "organ": "Motion Picture Association of America",
       "value": "PG"
     },
-    "pt": {
+    {
+      "key": "pt",
       "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
       "value": "L"
     }
-  },
+  ],
   "externalId": {
     "themoviedb": 508943,
     "imdb": "tt12801262"
@@ -49,32 +51,32 @@
   "images": [
     {
       "path": "data/movies/MV508943/images/2_3/clean_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV508943/images/2_3/en_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV508943/images/2_3/pt_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     },
     {
       "path": "data/movies/MV508943/images/16_9/clean_w1920_h1080.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV508943/images/16_9/en_w1920_h1080.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV508943/images/16_9/en_w1920_h1080.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     }
   ]
