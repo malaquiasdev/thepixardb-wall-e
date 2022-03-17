@@ -34,16 +34,18 @@
   "revenue": 1073394593,
   "releaseDate": "2019-06-19",
   "runtime": 100,
-  "rating": {
-    "en": {
+  "ages": [
+    {
+      "key": "en",
       "organ": "Motion Picture Association of America",
       "value": "G"
     },
-    "pt": {
+    {
+      "key": "pt",
       "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
       "value": "L"
     }
-  },
+  ],
   "externalId": {
     "themoviedb": 301528,
     "imdb": "tt1979376"
@@ -51,32 +53,32 @@
   "images": [
     {
       "path": "data/movies/MV301528/images/2_3/clean_w1360_h2039.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV301528/images/2_3/en_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV301528/images/2_3/en_w2000_h3000.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     },
     {
       "path": "data/movies/MV301528/images/16_9/clean_w3840_h2160.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": null
     },
     {
       "path": "data/movies/MV301528/images/16_9/en_w3840_h2160.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "en"
     },
     {
       "path": "data/movies/MV301528/images/16_9/en_w3840_h2160.jpeg",
-      "primary": "true",
+      "primary": true,
       "key": "pt"
     }
   ]
