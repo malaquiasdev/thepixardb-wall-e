@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import { MovieData } from './movie.data';
+import { MovieData } from './movie';
 import validate from './data.loader.validate';
 
 function getDirNames(rootDir: string): string[] {

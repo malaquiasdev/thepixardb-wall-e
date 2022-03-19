@@ -9,7 +9,7 @@ export type Description = {
   long: string;
 };
 
-export type Ages = {
+export type Age = {
   key: string;
   organ: string;
   value: string;
@@ -34,8 +34,24 @@ export type MovieData = {
   budget?: number;
   revenue?: number;
   releaseDate: string;
-  runTime: number;
-  rating: Ages[];
+  runtime: number;
+  ages: Age[];
+  externalId: ExternalId;
+  images: Images[];
+};
+
+export type Movie = {
+  pk: string;
+  sk: string;
+  title: string;
+  description: string;
+  descriptionShort: string;
+  genres: string[];
+  budget?: number;
+  revenue?: number;
+  releaseDate: string;
+  runtime: number;
+  rating: Age;
   externalId: ExternalId;
   images: Images[];
 };

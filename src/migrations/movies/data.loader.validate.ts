@@ -1,7 +1,7 @@
-import { MovieData } from './movie.data';
+import { MovieData } from './movie';
 
 function validateId(content: MovieData): void {
-  if (content.id && !(content.id.indexOf('MV') === 0) && !content.id.includes(content.externalId.imdb)) {
+  if ((content.id && !(content.id.indexOf('MV') === 0)) || !content.id.includes(content.externalId.themoviedb.toString())) {
     throw new Error('ID_WRONG_PATTERN');
   }
 }
