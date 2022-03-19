@@ -6,6 +6,13 @@
 
 Tool for meta operations over static JSON data and from web pages and mix it in our central database.
 
+This repository contains:
+
+- [data/movies](data/movies): a static JSON metadata of movies produced by us.
+- [data/company](data/company.json): a static JSON metadata of the company produced by us.
+- [data/genres](data/genres.json): a static genre list supported in the project.
+- [src/migrations](src/migrations): the scripts to ingest the metadata in our database.
+
 ## Contribute 🍕
 
 ### Install dependencies
