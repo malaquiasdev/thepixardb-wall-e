@@ -1,3 +1,9 @@
-export function sayHello(): string {
-  return 'hello';
+import { ingestMovies } from './migrations/movies/';
+
+export async function handler() {
+  await ingestMovies('thepixardb_movies');
 }
+
+(async () => {
+  await handler();
+})();
