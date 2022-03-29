@@ -3,10 +3,21 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const dynamodb = new AWS.DynamoDB({ region: process.env.AWS_REGION });
-const client = new AWS.DynamoDB.DocumentClient({
-  region: process.env.AWS_REGION,
-});
+let dynamodb = null;
+let client = null;
+
+if (process.env.NODE_ENV === 'local') {
+  dynamodb = new AWS.DynamoDB({ region: process.env.AWS_REGION, endpoint: process.env.AWS_DYNAMODB_ENDPOINT });
+  client = new AWS.DynamoDB.DocumentClient({
+    region: process.env.AWS_REGION,
+    endpoint: process.env.AWS_DYNAMODB_ENDPOINT,
+  });
+} else {
+  dynamodb = new AWS.DynamoDB({ region: process.env.AWS_REGION });
+  client = new AWS.DynamoDB.DocumentClient({
+    region: process.env.AWS_REGION,
+  });
+}
 
 function _chunkIt(array: any): any[] {
   const maxSize = 25;
