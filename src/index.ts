@@ -5,5 +5,7 @@ export async function handler() {
 }
 
 (async () => {
-  await handler();
+  console.log('--- STARTING ----');
+  await ingestMovies('thepixardb_movies');
+  console.log(`--- FINISHED ----`);
 })();

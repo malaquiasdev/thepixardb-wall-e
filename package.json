@@ -16,7 +16,7 @@
     "postinstall": "husky install && chmod ug+x .husky/*",
     "prebuild": "rimraf dist",
     "build": " tsc",
-    "dev": "nodemon --exec ts-node -- ./src/index.ts",
+    "dev": "NODE_ENV=local nodemon --exec ts-node -- ./src/index.ts",
     "start": "ts-node -- ./src/index.ts",
     "test": "jest --forceExit --detectOpenHandles",
     "test:cov": "jest --coverage",

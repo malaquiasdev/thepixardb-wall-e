@@ -1,5 +1,5 @@
 import * as path from 'path';
-import { batchWrite } from '../../aws/dynamo';
+import { batchWrite, executePartiQL } from '../../aws/dynamo';
 import dataLoad from './data.loader';
 import { transformDataToMovie } from './transform';
 
@@ -8,4 +8,6 @@ export async function ingestMovies(tableName: string): Promise<void> {
   const data = dataLoad(directory);
   const movies = transformDataToMovie(data);
   await batchWrite(tableName, movies, true);
+  const list = await executePartiQL(`SELECT * FROM ${tableName} WHERE "sk" = 'LANGUAGE#en' `);
+  console.log(list);
 }

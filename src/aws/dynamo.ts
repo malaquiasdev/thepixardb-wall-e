@@ -1,4 +1,5 @@
 import AWS from 'aws-sdk';
+import { ServiceConfigurationOptions } from 'aws-sdk/lib/service';
 import dotenv from 'dotenv';
 
 dotenv.config();
@@ -7,11 +8,12 @@ let dynamodb = null;
 let client = null;
 
 if (process.env.NODE_ENV === 'local') {
-  dynamodb = new AWS.DynamoDB({ region: process.env.AWS_REGION, endpoint: process.env.AWS_DYNAMODB_ENDPOINT });
-  client = new AWS.DynamoDB.DocumentClient({
+  const options: ServiceConfigurationOptions = {
     region: process.env.AWS_REGION,
     endpoint: process.env.AWS_DYNAMODB_ENDPOINT,
-  });
+  };
+  dynamodb = new AWS.DynamoDB(options);
+  client = new AWS.DynamoDB.DocumentClient(options);
 } else {
   dynamodb = new AWS.DynamoDB({ region: process.env.AWS_REGION });
   client = new AWS.DynamoDB.DocumentClient({
@@ -87,7 +89,6 @@ export async function batchWrite(tableName: string, array: any, newItem: boolean
         [tableName]: items,
       },
     };
-
     await client.batchWrite(params).promise();
   }
 }
