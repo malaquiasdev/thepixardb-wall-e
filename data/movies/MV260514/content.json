@@ -1,0 +1,78 @@
+{
+  "id": "MV260514",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Cars 3"
+    },
+    {
+      "key": "pt",
+      "value": "Carros 3"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+      "long": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!"
+    },
+    {
+      "key": "pt",
+      "short": "Relâmpago McQueen está determinado a provar a uma nova geração de corredores que ele ainda é o melhor carro de corrida do mundo.",
+      "long": "Durante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez."
+    }
+  ],
+  "genreIds": [
+    1,
+    5,
+    3,
+    2
+  ],
+  "budget": 175000000,
+  "revenue": 383925276,
+  "releaseDate": "2017-06-15",
+  "runtime": 90,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 260514,
+    "imdb": "tt3606752"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV260514/images/2_3/en_w1200_h1800.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV260514/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV260514/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV260514/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV260514/images/16_9/pt_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
