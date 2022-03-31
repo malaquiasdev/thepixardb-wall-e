@@ -1,0 +1,85 @@
+{
+  "id": "MV354912",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Coco"
+    },
+    {
+      "key": "pt",
+      "value": "Viva: A Vida é uma Festa"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "long": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history."
+    },
+    {
+      "key": "pt",
+      "short": "Miguel entra na terra dos mortos para encontrar a seu bisavó quem era um lendário cantante.",
+      "long": "O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário."
+    }
+  ],
+  "genreIds": [
+    2,
+    1,
+    4,
+    8,
+    3,
+    5
+  ],
+  "budget": 175000000,
+  "revenue": 800526015,
+  "releaseDate": "2017-10-27",
+  "runtime": 109,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 354912,
+    "imdb": "tt2380307"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV354912/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV354912/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV354912/images/2_3/pt_w1080_h1616.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV354912/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV354912/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV354912/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
