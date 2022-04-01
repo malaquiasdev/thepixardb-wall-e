@@ -1,0 +1,82 @@
+{
+  "id": "MV10193",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Toy Story 3"
+    },
+    {
+      "key": "pt",
+      "value": "Toy Story 3"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+      "long": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy."
+    },
+    {
+      "key": "pt",
+      "short": "Os brinquedos são dados por erro a uma creche, Woody junto com os outros brinquedos tentaram voltar a casa do Andy.",
+      "long": "Quando Andy se prepara para ir para a faculdade, Woody, Buzz, Jessie e o restante dos leais brinquedos de Andy pensam o que irá acontecer com eles. Mas quando uma confusão faz com que eles sejam levados à creche Sunnyside, eles conhecem um anfitrião de novos brinquedos e logo descobrem que uma nova aventura selvagem está apenas começando!"
+    }
+  ],
+  "genreIds": [
+    1,
+    2,
+    3
+  ],
+  "budget": 200000000,
+  "revenue": 1066969703,
+  "releaseDate": "2010-06-16",
+  "runtime": 103,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 10193,
+    "imdb": "tt0435761"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV10193/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV10193/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV10193/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV10193/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV10193/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV10193/images/16_9/pt_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
