@@ -1,0 +1,83 @@
+{
+  "id": "MV14160",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Up"
+    },
+    {
+      "key": "pt",
+      "value": "Up: Altas Aventuras"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+      "long": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life."
+    },
+    {
+      "key": "pt",
+      "short": "Carl Fredricksen de setenta e oit anos viaja a Paraside Falls com sua casa é inadvertidamente se leva un menino com ele.",
+      "long": "Carl Fredricksen é um vendedor de balões que, aos 78 anos, está prestes a perder a casa em que sempre viveu com sua esposa, a falecida Ellie. Após um incidente, Carl é considerado uma ameaça pública e forçado a ser internado. Para evitar que isto aconteça, ele põe balões em sua casa, fazendo com que ela levante voo. Carl quer viajar para uma floresta na América do Sul, onde ele e Ellie sempre desejaram morar, mas descobre que um problema embarcou junto: Russell, um menino de 8 anos."
+    }
+  ],
+  "genreIds": [
+    1,
+    3,
+    2,
+    5
+  ],
+  "budget": 175000000,
+  "revenue": 735099082,
+  "releaseDate": "2009-05-28",
+  "runtime": 96,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 14160,
+    "imdb": "tt1049413"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV14160/images/2_3/clean_w1000_h1500.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV14160/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV14160/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV14160/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV14160/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV14160/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
