@@ -1,0 +1,84 @@
+{
+  "id": "MV150540",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Inside Out"
+    },
+    {
+      "key": "pt",
+      "value": "Divertida Mente"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "long": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school."
+    },
+    {
+      "key": "pt",
+      "short": "Quando o jovem Riley se muda á San Francisco deberá lidiar com suas emoções.",
+      "long": "Baseadas na Sala de Comando, o centro de controle dentro da mente de Riley de 11 anos, cinco emoções trabalham sem parar, lideradas pela otimista Alegria. Ela se esforça muito para garantir que Riley esteja sempre feliz, e trabalha ao lado do Medo, Raiva, Nojinho e Tristeza."
+    }
+  ],
+  "genreIds": [
+    1,
+    2,
+    5,
+    6,
+    3
+  ],
+  "budget": 175000000,
+  "revenue": 857611174,
+  "releaseDate": "2015-06-09",
+  "runtime": 95,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 150540,
+    "imdb": "tt2096673"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV150540/images/2_3/clean_w1536_h2304.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV150540/images/2_3/en_w1700_h2550.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV150540/images/2_3/pt_w1094_h1640.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV150540/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV150540/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV150540/images/16_9/pt_w1712_h964.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}

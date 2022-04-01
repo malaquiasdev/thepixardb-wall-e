@@ -1,0 +1,82 @@
+{
+  "id": "MV105864",
+  "titles": [
+    {
+      "key": "en",
+      "value": "The Good Dinosaur"
+    },
+    {
+      "key": "pt",
+      "value": "O Bom Dinossauro"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.",
+      "long": "In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend"
+    },
+    {
+      "key": "pt",
+      "short": "Em um mundo onde dinossauros e humanos vivem lado a lado, um apatossauro chamado Arlo é um amigo humano improvável.",
+      "long": "Em um mundo onde os dinossauros e os humanos coexistem, um jovem apatossauro e um garoto neandertal criam uma amizade única e vivem aventuras inesquecíveis."
+    }
+  ],
+  "genreIds": [
+    5,
+    1,
+    2
+  ],
+  "budget": 175000000,
+  "revenue": 332207671,
+  "releaseDate": "2015-11-14",
+  "runtime": 93,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 105864,
+    "imdb": "tt1979388"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV105864/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV105864/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV105864/images/2_3/pt_w960_h1440.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV105864/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV105864/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV105864/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "MV260513",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Incredibles 2"
+    },
+    {
+      "key": "pt",
+      "value": "Os Incríveis 2"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+      "long": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world."
+    },
+    {
+      "key": "pt",
+      "short": "A familia dos Incríveis pegam uma nova misão, mais Sr Incrível deberá controlar sua casa enquanto sua esposa Helen salvará o mundo.",
+      "long": "Helena é chamada para liderar uma campanha para trazer os superheróis de volta. Enquanto Roberto deve enfrentar os desafios heroicos do dia a dia da vida doméstica. Mas quando um novo vilão aparece com um plano brilhante e perigoso, a família Pêra enfrenta o desafio juntos  com Gelado do lado deles."
+    }
+  ],
+  "genreIds": [
+    7,
+    5,
+    1,
+    2
+  ],
+  "budget": 200000000,
+  "revenue": 1242805359,
+  "releaseDate": "2018-06-14",
+  "runtime": 118,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 260513,
+    "imdb": "tt3606756"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV260513/images/2_3/clean_w1000_h1500.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV260513/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV260513/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV260513/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV260513/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV260513/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}

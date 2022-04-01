@@ -28,5 +28,15 @@
     "id": 6,
     "en": "Drama",
     "pt": "Drama"
+  },
+  {
+    "id": 7,
+    "en": "Action",
+    "pt": "Ação"
+  },
+  {
+    "id": 8,
+    "en": "Music",
+    "pt": "Música"
   }
 ]
