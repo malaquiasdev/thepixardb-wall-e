@@ -1,0 +1,81 @@
+{
+  "id": "MV62211",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Monsters University"
+    },
+    {
+      "key": "pt",
+      "value": "Universidade Monstros"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
+      "long": "A look at the relationship between Mike Wazowski (Billy Crystal) and James P. Sully Sullivan (John Goodman) during their days at Monsters University, when they weren't necessarily the best of friends."
+    },
+    {
+      "key": "pt",
+      "short": "Uma olhada na relação entre Mike Wazowski e James P. Sully Sullivan durante seus dias na Monsters University, quando não eram necessariamente os melhores amigos.",
+      "long": "Mike e Sulley, alunos promissores da Universidade Monstros, são forçados a se unirem quando sua disputa acirrada pelo posto de aluno mais assustador da turma foge ao controle e eles acabam sendo expulsos da faculdade."
+    }
+  ],
+  "genreIds": [
+    1,
+    2
+  ],
+  "budget": 200000000,
+  "revenue": 743559607,
+  "releaseDate": "2013-06-19",
+  "runtime": 104,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 62211,
+    "imdb": "tt1453405"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV62211/images/2_3/clean_w1000_h1500.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV62211/images/2_3/en_w1400_h2100.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV62211/images/2_3/pt_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV62211/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV62211/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV62211/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
