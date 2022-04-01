@@ -1,0 +1,85 @@
+{
+  "id": "MV62177",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Brave"
+    },
+    {
+      "key": "pt",
+      "value": "Valente"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+      "long": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall."
+    },
+    {
+      "key": "pt",
+      "short": "Com a determinação de forjar seu próprio caminho na vida, a Princesa Mérida desafia uma tradição que traz o caos ao seu reino. Mérida dependerá de sua bravura e de suas habilidades como arqueira para desfazer uma maldição bestial.",
+      "long": "Determinada a seguir seu próprio caminho na vida, a princesa Mérida desafia um costume que traz caos ao seu reino. Concedido um desejo, Merida deve confiar em sua bravura e suas habilidades de arco e flecha para desfazer uma maldição bestial."
+    }
+  ],
+  "genreIds": [
+    1,
+    5,
+    3,
+    2,
+    7,
+    4
+  ],
+  "budget": 185000000,
+  "revenue": 538983207,
+  "releaseDate": "2012-06-21",
+  "runtime": 93,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "PG"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 62177,
+    "imdb": "tt1217209"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV62177/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV62177/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV62177/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV62177/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV62177/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV62177/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
