@@ -1,0 +1,83 @@
+{
+  "id": "MV9487",
+  "titles": [
+    {
+      "key": "en",
+      "value": "A Bug's Life"
+    },
+    {
+      "key": "pt",
+      "value": "Vida de Inseto"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "A misfit ant, looking for warriors to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+      "long": "On behalf of oppressed bugs everywhere, an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper."
+    },
+    {
+      "key": "pt",
+      "short": "Uma formiga desajustada, à procura de guerreiros para salvar sua colônia de gananciosos grilos, recruta um grupo de criaturas que se revelam uma inepta companhia de circo.",
+      "long": "Flik é uma formiga cheia de ideias que, em nome dos insetos oprimidos de todo o mundo, precisa contratar guerreiros para defender sua colônia de um faminto bando de gafanhotos liderado por Hopper. Mas quando descobrem que o exército de insetos é na verdade um fracassado grupo de atores de um circo de pulgas, o cenário está armado para divertidas confusões... com estes improváveis heróis.",
+    }
+  ],
+  "genreIds": [
+    5,
+    1,
+    3,
+    2
+  ],
+  "budget": 120000000,
+  "revenue": 363258859,
+  "releaseDate": "1998-11-25",
+  "runtime": 95,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 9487,
+    "imdb": "tt0120623"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV9487/images/2_3/clean_w1000_h1426.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV9487/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV9487/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV9487/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV9487/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV9487/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
