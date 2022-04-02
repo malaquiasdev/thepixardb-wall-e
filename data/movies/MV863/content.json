@@ -1,0 +1,82 @@
+{
+  "id": "MV863",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Toy Story 2"
+    },
+    {
+      "key": "pt",
+      "value": "Toy Story 2"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+      "long": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong."
+    },
+    {
+      "key": "pt",
+      "short": "Quando Woody é roubado por um coletor de brinquedos, Buzz e seus amigos irão numa misão para resgatar-lho antes que seja parte dum museu.",
+      "long": "Quando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos."
+    }
+  ],
+  "genreIds": [
+    1,
+    3,
+    2
+  ],
+  "budget": 90000000,
+  "revenue": 497366869,
+  "releaseDate": "1999-10-30",
+  "runtime": 92,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 863,
+    "imdb": "tt0120363"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV863/images/2_3/clean_w1000_h1500.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV863/images/2_3/en_w800_h1171.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV863/images/2_3/pt_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV863/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV863/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV863/images/16_9/pt_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
