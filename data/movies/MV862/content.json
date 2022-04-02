@@ -1,0 +1,83 @@
+{
+  "id": "MV862",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Toy Story"
+    },
+    {
+      "key": "pt",
+      "value": "Toy Story"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "long": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences."
+    },
+    {
+      "key": "pt",
+      "short": "Um brinquedo do cauboi se sente profundamente ameaçado e celoso quando um brinquedo patrulheiro espacial passa a ter mais atençao do garoto.",
+      "long": "Buzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura."
+    }
+  ],
+  "genreIds": [
+    1,
+    5,
+    2,
+    3
+  ],
+  "budget": 30000000,
+  "revenue": 373554033,
+  "releaseDate": "1995-10-30",
+  "runtime": 81,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 863,
+    "imdb": "tt0120363"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV862/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV862/images/2_3/en_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV862/images/2_3/pt_w1708_h2562.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV862/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV862/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV862/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
