@@ -1,0 +1,73 @@
+{
+  "id": "MV49013",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Cars 2"
+    },
+    {
+      "key": "pt",
+      "value": "Carros 2"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+      "long": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage."
+    },
+    {
+      "key": "pt",
+      "short": "O Relâmpago McQueen e seu amigo Mater vão para o exterior para competir na corrida do Grande Prêmio do Mundo. Mas o caminho para o campeonato se torna difícil, já que Mater se vê envolvido em uma aventura intrigante: a espionagem internacional.",
+      "long": "O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos."
+    }
+  ],
+  "genreIds": [
+    1,
+    2,
+    5,
+    3
+  ],
+  "budget": 200000000,
+  "revenue": 559852396,
+  "releaseDate": "2011-06-11",
+  "runtime": 106,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 49013,
+    "imdb": "tt1216475"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV49013/images/2_3/en_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV49013/images/2_3/pt_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV49013/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV49013/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    }
+  ]
+}

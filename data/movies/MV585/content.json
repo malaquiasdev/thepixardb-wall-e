@@ -1,0 +1,82 @@
+{
+  "id": "MV585",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Monsters, Inc."
+    },
+    {
+      "key": "pt",
+      "value": "Monstros S.A."
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+      "long": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world."
+    },
+    {
+      "key": "pt",
+      "short": "Para poder dar electricidade a sua cidade, os monstros tem que assustar a crianças. Pensando que as crianças são perigosas para eles, dois monstros acham que as coisas podem ser diferentes.",
+      "long": "O astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras."
+    }
+  ],
+  "genreIds": [
+    1,
+    3,
+    2
+  ],
+  "budget": 115000000,
+  "revenue": 562816256,
+  "releaseDate": "2001-11-01",
+  "runtime": 92,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 585,
+    "imdb": "tt0198781"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV585/images/2_3/clean_w2000_h3000.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV585/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV585/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV585/images/16_9/clean_w3840_h2160.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV585/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV585/images/16_9/pt_w2048_h1152.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}

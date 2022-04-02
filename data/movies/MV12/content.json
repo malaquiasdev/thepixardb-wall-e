@@ -1,0 +1,81 @@
+{
+  "id": "MV12",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Finding Nemo"
+    },
+    {
+      "key": "pt",
+      "value": "Procurando Nemo"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "long": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way."
+    },
+    {
+      "key": "pt",
+      "short": "Quando seu filho é capturado, um peixe-palhaço tímido embarca em uma viagem para trazê-lo para casa.",
+      "long": "Depois que seu filho é capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palhaço tímido parte em uma jornada para trazê-lo para casa."
+    }
+  ],
+  "genreIds": [
+    1,
+    2
+  ],
+  "budget": 94000000,
+  "revenue": 940335536,
+  "releaseDate": "2003-05-30",
+  "runtime": 100,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 12,
+    "imdb": "tt0266543"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV12/images/2_3/clean_w1000_h1500.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV12/images/2_3/en_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV12/images/2_3/pt_w1800_h2700.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV12/images/16_9/clean_w1280_h720.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV12/images/16_9/en_w1280_h720.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV12/images/16_9/pt_w2400_h1350.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
