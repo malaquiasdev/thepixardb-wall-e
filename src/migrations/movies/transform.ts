@@ -8,6 +8,9 @@ export function transformDataToMovie(contents: MovieData[]): Movie[] {
 
   for (const content of contents) {
     for (const key of keys) {
+      if (result.find(i => i.pk === content.id && i.sk === `LANGUAGE#${key}`)) {
+        console.log(`Duplicate key ${content.id}`);
+      }
       result.push({
         pk: content.id,
         sk: `LANGUAGE#${key}`,

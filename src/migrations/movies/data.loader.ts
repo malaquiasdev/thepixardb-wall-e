@@ -15,6 +15,7 @@ function getContents(rootDir: string, dirNames: string[]): MovieData[] {
     .map(name => {
       const data = fs.readFileSync(`${rootDir}/${name}/content.json`);
       const content: MovieData = JSON.parse(data.toString());
+      console.log('content.id', content.id);
       validate(content);
       return content;
     });
