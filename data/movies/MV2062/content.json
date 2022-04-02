@@ -1,0 +1,78 @@
+{
+  "id": "MV2062",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Ratatouille"
+    },
+    {
+      "key": "pt",
+      "value": "Ratatouille"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "long": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream."
+    },
+    {
+      "key": "pt",
+      "short": "Um rato que pode cozinhar forja uma aliança incomum com um jovem garoto em um famoso restaurante em Paris.",
+      "long": "Um rato que sabe cozinhar faz uma aliança incomum com um jovem trabalhador de cozinha em um restaurante famoso."
+    }
+  ],
+  "genreIds": [
+    1,
+    3,
+    2,
+    4
+  ],
+  "budget": 150000000,
+  "revenue": 623726000,
+  "releaseDate": "2007-06-28",
+  "runtime": 110,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 2062,
+    "imdb": "tt0382932"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV2062/images/2_3/en_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV2062/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV2062/images/16_9/clean_w2560_h1440.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV2062/images/16_9/en_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV2062/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
