@@ -1,0 +1,78 @@
+{
+  "id": "MV2062",
+  "titles": [
+    {
+      "key": "en",
+      "value": "Cars"
+    },
+    {
+      "key": "pt",
+      "value": "Carros"
+    }
+  ],
+  "descriptions": [
+    {
+      "key": "en",
+      "short": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
+      "long": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters."
+    },
+    {
+      "key": "pt",
+      "short": "Um carro de corridas chamado Relâmpago McQueen é desviado para Radiator Springs, onde ele encontra o verdadeiro significado da amizade e da família.",
+      "long": "Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida."
+    }
+  ],
+  "genreIds": [
+    1,
+    5,
+    3,
+    2
+  ],
+  "budget": 120000000,
+  "revenue": 461983149,
+  "releaseDate": "2006-06-08",
+  "runtime": 117,
+  "ages": [
+    {
+      "key": "en",
+      "organ": "Motion Picture Association of America",
+      "value": "G"
+    },
+    {
+      "key": "pt",
+      "organ": "Departamento de Justiça, Classificação, Títulos e Qualificação",
+      "value": "L"
+    }
+  ],
+  "externalId": {
+    "themoviedb": 920,
+    "imdb": "tt0317219"
+  },
+  "images": [
+    {
+      "path": "data/movies/MV920/images/2_3/en_w1000_h1500.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV920/images/2_3/pt_w2000_h3000.jpeg",
+      "primary": true,
+      "key": "pt"
+    },
+    {
+      "path": "data/movies/MV920/images/16_9/clean_w1920_h1080.jpeg",
+      "primary": true,
+      "key": null
+    },
+    {
+      "path": "data/movies/MV920/images/16_9/en_w1920_h1080.jpeg",
+      "primary": true,
+      "key": "en"
+    },
+    {
+      "path": "data/movies/MV920/images/16_9/pt_w3840_h2160.jpeg",
+      "primary": true,
+      "key": "pt"
+    }
+  ]
+}
